@@ -2,11 +2,11 @@ body {
     font-family:'Times New Roman', Times, serif;
     margin: 0;
     padding: 0;
-    background-color: #1D2D44;
+    background-color: black;
   }
   
   .logo{
-    background-color: #1D2D44;
+    background-color: black;
     box-shadow: none;
     /* width:230px; */
     padding: 0;
@@ -34,8 +34,8 @@ body {
     text-align: center;
     margin-bottom: 30px;
     width: 500px;
-    margin-left: 370px;
-    background-color: #F0EBD8;
+    margin-left: 400px;
+    background-color: white;
     border-radius: 10px;
     /* box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); */
     /* margin-left: 0; */
@@ -124,14 +124,14 @@ body {
   
   button {
     padding: 10px 20px;
-    background-color: #3f6a99;
+    background-color: rgb(8, 131, 172);
     color: #fff;
     border: none;
     cursor: pointer;
     border-radius: 5px;
     transition: background-color 0.3s ease;
     margin-top: 0px;
-    margin-bottom: 10px;
+    margin-bottom: 0px;
     
   
   }
